@@ -5,7 +5,6 @@ Features:
 User Registration and Authentication:
 
 ![HOME PAGE](https://github.com/Vishnu2032002/Railway-Reservation-System/blob/main/Screenshot%20(56).png)
-
 ![TRAIN DETAILS](https://github.com/Vishnu2032002/Railway-Reservation-System/blob/main/Screenshot%20(57).png)
 
 Users can create accounts and log in securely to access the system.
